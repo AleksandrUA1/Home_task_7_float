@@ -1,0 +1,30 @@
+.header {
+    background-color: #a0c0a8;
+}
+.logo {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: #969090;
+    margin: 20px;
+}
+.nav {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: #94a7bd;
+    margin: 20px;
+}
+.clearfix {
+    clear: both;
+}
+.section_first {
+    background-color: #a0c0a8;
+    margin-top: 50px;
+}
+.section_card {
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+}
